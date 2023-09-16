@@ -3,7 +3,8 @@ Linkpage is a streamlit application similar to [Linktr.ee](https://linktr.ee/) w
 
 
 <h1>Demo Application</h1> 
-[Streamlit App](https://prajeet.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prajeet.streamlit.app/)
 
 
 
